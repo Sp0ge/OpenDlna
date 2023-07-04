@@ -1,5 +1,5 @@
 import sys
-from opendlna.GUI import app as flask_web_gui
+from opendlna.WUI import app as flask_web_gui
 
 web_interface_active = True
 
